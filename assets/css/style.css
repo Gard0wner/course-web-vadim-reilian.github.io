@@ -80,21 +80,21 @@ img {
   transition: 0.3s;
 }
 .btn-yellow {
-  background-image: url("assets/images/btn-1.jpg");
+  background-image: url("images/btn-1.jpg");
   background-size: 100% 100%;
   color: var(--color-text-dark);
 }
 .btn-yellow:hover {
-  background-image: url("assets/images/btn-hover.png");
+  background-image: url("images/btn-hover.png");
   color: var(--color-text-dark);
 }
 .btn-dark {
-  background-image: url("assets/images/btn-2.png");
+  background-image: url("images/btn-2.png");
   background-size: 100% 100%;
   color: var(--color-white);
 }
 .btn-dark:hover {
-  background-image: url("assets/images/btn-dark-hover.png");
+  background-image: url("images/btn-dark-hover.png");
   color: var(--color-white);
 }
 .btn-white {
