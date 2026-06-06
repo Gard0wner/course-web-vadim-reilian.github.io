@@ -80,21 +80,21 @@ img {
   transition: 0.3s;
 }
 .btn-yellow {
-  background-image: url("/assets/images/btn-1.jpg");
+  background-image: url("assets/images/btn-1.jpg");
   background-size: 100% 100%;
   color: var(--color-text-dark);
 }
 .btn-yellow:hover {
-  background-image: url("/assets/images/btn-hover.png");
+  background-image: url("assets/images/btn-hover.png");
   color: var(--color-text-dark);
 }
 .btn-dark {
-  background-image: url("/assets/images/btn-2.png");
+  background-image: url("assets/images/btn-2.png");
   background-size: 100% 100%;
   color: var(--color-white);
 }
 .btn-dark:hover {
-  background-image: url("/assets/images/btn-dark-hover.png");
+  background-image: url("assets/images/btn-dark-hover.png");
   color: var(--color-white);
 }
 .btn-white {
@@ -262,13 +262,13 @@ img {
   background-repeat: no-repeat;
 }
 .bg-truck {
-  background-image: url("/assets/images/truck-hero.jpg");
+  background-image: url("assets/images/truck-hero.jpg");
 }
 
 .bg-home {
   background-image:
     linear-gradient(rgba(9, 18, 66, 0.6), rgba(9, 18, 66, 0.6)),
-    url("/assets/images/bg-home.png");
+    url("assets/images/bg-home.png");
   background-color: var(--color-primary-dark);
 }
 
@@ -280,11 +280,11 @@ img {
       rgba(9, 18, 66, 0.6) 40%,
       rgba(9, 18, 66, 0) 70%
     ),
-    url("/assets/images/bg-truck.png");
+    url("assets/images/bg-truck.png");
 }
 
 .bg-airplane {
-  background-image: url("/assets/images/airplane-hero.png");
+  background-image: url("assets/images/airplane-hero.png");
   background-image:
     linear-gradient(
       90deg,
@@ -292,7 +292,7 @@ img {
       rgba(9, 18, 66, 0.6) 40%,
       rgba(9, 18, 66, 0) 70%
     ),
-    url("/assets/images/airplane-hero.png");
+    url("assets/images/airplane-hero.png");
 }
 
 .bg-services {
@@ -303,7 +303,7 @@ img {
       rgba(9, 18, 66, 0.6) 40%,
       rgba(9, 18, 66, 0) 70%
     ),
-    url("/assets/images/services.png");
+    url("assets/images/services.png");
   background-color: var(--color-primary-dark);
 }
 
@@ -456,7 +456,7 @@ img {
   width: 17px;
   height: 17px;
   margin: 16px;
-  background-image: url("/assets/icons/yellow-square-icon.png");
+  background-image: url("assets/icons/yellow-square-icon.png");
 }
 
 .testimonial-section {
@@ -1035,7 +1035,7 @@ img {
 }
 
 .bg-about {
-  background-image: url("/assets/images/bg-about.png");
+  background-image: url("assets/images/bg-about.png");
 }
 
 .about-overview-section {
@@ -1237,7 +1237,7 @@ img {
 }
 .why-us-global-bg {
   height: 300px;
-  background: url("/assets/images/containers-bg.png") center/cover no-repeat;
+  background: url("assets/images/containers-bg.png") center/cover no-repeat;
 }
 .why-us-wrapper {
   background: #fff;
@@ -1621,7 +1621,7 @@ img {
 .pre-footer-banner {
   width: 100%;
   height: 250px;
-  background-image: url("/assets/images/port-bg.png");
+  background-image: url("assets/images/port-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1968,7 +1968,7 @@ img {
 
   .why-us-global-bg {
     height: 504px;
-    background: url("/assets/images/containers-bg.png") center/cover no-repeat;
+    background: url("assets/images/containers-bg.png") center/cover no-repeat;
   }
   .why-us-wrapper {
     padding: 80px;
