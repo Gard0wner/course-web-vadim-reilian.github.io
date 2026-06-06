@@ -1332,11 +1332,9 @@ img {
 
 .projects-gallery-container {
   width: 100%;
-  background: linear-gradient(
-    to bottom,
-    #ffffff 50%,
-    linear-gradient(95deg, #ffb629 -1.19%, #ffda56 57.78%, #ffd7a6 115.08%)
-  );
+background: 
+    linear-gradient(to bottom, #ffffff 50%, transparent 50%),
+    linear-gradient(95deg, #ffb629 -1.19%, #ffda56 57.78%, #ffd7a6 115.08%);
   padding: 0;
 }
 
