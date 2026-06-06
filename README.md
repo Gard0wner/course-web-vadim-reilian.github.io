@@ -1,1 +1,1 @@
-# course-web-vadim-reilian
+# course-web-vadim-reilian.github.io
