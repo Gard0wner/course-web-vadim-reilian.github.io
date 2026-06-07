@@ -530,7 +530,7 @@ img {
   background: var(--color-primary-dark);
   color: #fff;
 }
-.dark-card h4 {
+.dark-card h3 {
   color: #fff;
 }
 .t-user {
@@ -546,7 +546,7 @@ img {
   border-radius: 50%;
   object-fit: cover;
 }
-.t-user h4 {
+.t-user h3 {
   margin: 0;
   font-size: 1.1rem;
 }
@@ -1383,7 +1383,7 @@ background:
   pointer-events: none;
 }
 
-.project-overlay h4 {
+.project-overlay h3 {
   color: #fff;
   margin: 0 0 25px 0;
   font-size: 1.25rem;
@@ -1472,7 +1472,7 @@ background:
   height: auto;
 }
 
-.icon-box h4 {
+.icon-box h3 {
   margin: 0;
   font-size: 1.1rem;
   font-weight: 600;
